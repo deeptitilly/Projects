@@ -1,4 +1,4 @@
-# Project 2: Sentiment Analysis of Political Twitter Data
+# Project 1: Sentiment Analysis of Political Twitter Data
 
 In this project, I've used lexicon-based tools and machine learning to build a sentiment analyzer to predict the sentiment around 3 2020 presidential candidates: Bernie Sanders, Elizabeth Warren, and Joe Biden. I have also incorporated unsupervised learning to perform topic modeling on the tweets each candidate.
 
