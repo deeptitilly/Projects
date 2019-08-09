@@ -1,4 +1,4 @@
-# Project 1: Using ML to Predict Movie Success
+# Project 2: Using ML to Predict Movie Success
 
 Data from The Movie Databse was used to create regression and classification models to predict movie success in 3 different ways:
 - predict movie revenue
