@@ -2,7 +2,7 @@
 
 In this project, I've used lexicon-based tools and machine learning to build a sentiment analyzer to predict the sentiment around 3 2020 presidential candidates: Bernie Sanders, Elizabeth Warren, and Joe Biden. I have also incorporated unsupervised learning to perform topic modeling on the tweets each candidate.
 
-Data: The Twitter API was used to extract ~86,000 tweets about Bernie Sanders, Elizabeth Warren, and Joe Biden. The files containing the tweets can be found under the "code" folder. Please unzip before using.
+Data: The Twitter API was used to extract ~86,000 tweets about Bernie Sanders, Elizabeth Warren, and Joe Biden. The files containing the tweets can be found in the "code" folder. Please unzip before using.
 
 Some topics covered in this project are:
 - Cleaning and Feature Extraction Using Unstructured Text Data (Bag-of-Words, TF-IDF)
