@@ -10,6 +10,6 @@ Some topics covered in this project are:
 - Exploratory Data Analysis using Wordclouds
 - Building a Sentiment Classifier (Logistic Regression, Random Forest, Multinomial Naive Bayes)
 - Topic Modeling using LDA and NMF
-- Deep Learning
+- Deep Learning (LSTM)
 
 A report can be found in the associated folder. Please feel free to reach out with any additional questions at deeptitilly@gmail.com
