@@ -11,7 +11,7 @@ Welcome to my Data Science Project Portfolio! This repository currently includes
 
 **Project 2: Using Machine Learning to Predict Movie Success**
 - Uses regression and classification to predict movie success in 3 different ways (revenue, ROI, hit-flop-breakeven)
-- Models used are Linear and Logistic Regression, Random Forest, Decision Trees, SVM, Gradient Boosting
+- Models used are Linear and Logistic Regression, Random Forest, Decision Trees, SVM, Gradient Boosting, kNN
 - Data cleaning, wrangling, EDA of structured numerical data
 - Incorporates feature engineering, outlier analysis using Cook's Distance, and enhanced model interpretatability using Shapley values
 
